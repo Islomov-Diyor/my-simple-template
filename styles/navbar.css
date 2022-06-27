@@ -444,9 +444,6 @@ ul, li {
 /* Tabs section styling */
 
 
-body {
-  font-family: 'Roboto', sans-serif;
-}
 .mytabs {
   display: flex;
   flex-wrap: wrap;
