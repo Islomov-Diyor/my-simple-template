@@ -497,3 +497,44 @@ ul, li {
 .counter-p{
   margin-top: 1rem;
 }
+/* Counter section styling end */
+
+/* Img card slider section start styling */
+.img-slider .card{
+  border-bottom: none;
+  border-top: none;
+  background: none;
+}
+.img-slider .card-header{
+  background: none;
+  border: none;
+  border-top: none;
+  border-bottom: none;
+}
+.img-slider .card-body{
+  background: none;
+  border: none;
+  border-top: none;
+  border-bottom: none;
+}
+.img-slider .card-footer{
+  background: none;
+  border: none;
+  border-top: none;
+  border-bottom: none;
+}
+.card-width img{
+  width: 200px;
+  height: 300px;
+}
+
+.location{
+  color: black;
+  margin: 0;
+  text-align: center;
+}
+
+.sup-text{
+  color: rgb(22, 155, 155);
+  font-weight: 900;
+}
