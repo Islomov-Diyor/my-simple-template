@@ -478,3 +478,22 @@ ul, li {
 .mytabs input[type="radio"]:checked + label {
   background: #fff;
 }
+
+/* Counter style */
+.counter{
+  padding: 20px 20px;
+  
+  box-sizing: border-box;
+}
+.counter-main{
+  background-color: grey;
+  padding: 20px 20px;
+  height: 200px;
+}
+.sizebig{
+  font-size: 25px;
+}
+
+.counter-p{
+  margin-top: 1rem;
+}
