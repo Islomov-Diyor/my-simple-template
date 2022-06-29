@@ -631,3 +631,33 @@ li {
   font-weight: 800;
   margin-bottom: 2rem;
 }
+.footer{
+  padding: 20px 20px;
+  background-color: #1e2d85;
+}
+
+.my-footer{
+  padding: 20px 20px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.my-footer2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ul-type{
+  color: white;
+  font-weight: 900px;
+}
+
+.ul-my-items{
+  list-style-type: none;
+  margin-top: 2rem;
+  cursor: pointer;
+  font-style: italic;
+}
